@@ -1,3 +1,4 @@
-try to create  a promisified version of set timeout
+try to create a promisified version of 
+settimeout
 fetch
-fs.readfile
+fs.readFile

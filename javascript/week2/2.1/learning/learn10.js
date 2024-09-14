@@ -8,4 +8,4 @@ let n = 0;
 for (let i=0;i<100000000000;i++);{
     n=n+1;
 }
-console.log("loop");
+console.log("loop"); 
