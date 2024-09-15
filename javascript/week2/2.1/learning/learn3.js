@@ -7,3 +7,4 @@ function sum(a){
 }
 const ans = sum(100);
 console.log(ans);
+
