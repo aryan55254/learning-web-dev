@@ -20,5 +20,6 @@ class Rectangle {
  
  const rect = new Rectangle(2, 4,"red")//new means instance/object of rectangle class
  const area = rect.area();
+ const rang = rect.paint();
+ console.log(rang);
  console.log(area);
- 
