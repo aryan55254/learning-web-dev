@@ -1,0 +1,214 @@
+body
+ {background-color: #0e0e0e;}
+.version
+ {color:#9ba3b4;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;}
+.toplink 
+{display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 150px;
+    margin-top: 20px;
+}
+.hyper
+ {background-color: #0e0e0e;
+border-style: groove;
+border-color: #9ba3b4;
+tab-size: 50px;
+color:#9ba3b4
+}
+.hype {background-color: #0078d4;
+cursor: pointer;
+color:#fff;
+font-size: 20px;
+font-weight: 600;
+border-radius: 4px;
+padding: 8px,8px;
+line-height: 100%;
+border-color: #0e0e0e;
+border-style: hidden;
+border-radius: 1.9px;
+height:30px;
+width:120px
+}
+.hero 
+{background-color:#1a1919;
+color:#9ba3b4;
+border-radius: 82px;
+padding-top: 0.5px;
+padding-bottom: 0.5px;
+padding-left: 0.5px;
+padding-right: 0.5px;
+height:50px;
+width:400px;
+font-size: 15px;
+}
+.hi
+ {font-size: 70px;
+color: rgb(240, 229, 229);}
+.hbk 
+{background-color: #0078d4;
+color:#fff;
+height:50px;
+width:275px;
+font-size: 20px;
+border-radius: 8px;}
+.gibbi
+{color:#9ba3b4
+}
+.hiyo
+{display: flex;
+justify-content: center;}
+.webli
+{color:#9ba3b4}
+.guulu
+{color:#9ba3b4}
+.gola
+{height:500px;
+width:800px}
+.ghi
+{display: flex;
+justify-content: space-between;
+margin-left: 100px;
+margin-right: 100px;
+margin-top: 10px;
+margin-left: 1opx;
+}
+.bhoot{
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+.billi
+{
+    color: #9ba3b4;
+}
+.kutta
+{background-color:#0e0e0e ;
+}
+.sher
+{display: flex;
+justify-content: 
+space-around;
+margin-top: 50px;
+margin-bottom: 50px;
+margin-left: 100px;
+}
+.gur
+{padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 150px;
+padding-right: 60px;
+}
+.hoola
+{color:#9ba3b4}
+.indi
+{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.gyh
+{
+   height: 500px;
+   width: 800px;
+}
+.kiki
+{
+    padding-right: 100px;
+}
+.giji
+{color:#9ba3b4}
+.niga
+{
+    height:400px;
+    width:750px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 150px;
+    padding-bottom: 50px;
+}
+.vini
+{
+    display: flex;
+    justify-content: space-between;
+}
+.nigger
+{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.bighi
+{color:#9ba3b4
+}
+.bhutan
+{
+    padding-left: 100px;
+    padding-top: 25px;
+    padding-right: 200px;
+    padding-bottom: 100px;
+}
+.bhyiya
+{
+    height:350px;
+    width:650px;
+}
+.nigesh
+{
+    display:flex;
+    justify-content: space-between;
+}
+.nji
+{padding-left: 50px;
+padding-top: 75px;
+padding-right: 25opx;
+padding-bottom: 5opx;
+margin-right: 100px;
+}
+.jija
+{
+    display: flex;
+    justify-content: space-between;
+}
+.bahu
+{
+    color:#9ba3b4;
+    padding-left: 100px;
+    padding-right: 300px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.beti
+{
+    height:400px;
+    width:600px;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+.fr
+{
+    color:#fff;
+    display: flex;
+    justify-content: center;
+}
+.lol
+{
+    display: flex;
+    justify-content: center;
+    color:#9ba3b4;
+}
+.nnn
+{
+    height:500px;
+    width:1200px;
+}
+.vvv
+{
+    display: flex;
+    justify-content: center;
+}
