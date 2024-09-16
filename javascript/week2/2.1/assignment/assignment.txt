@@ -1,4 +1,0 @@
-try to create a promisified version of 
-settimeout
-fetch
-fs.readFile
