@@ -1,7 +1,7 @@
 console.log("hi");
-function timeout(){
+function logbutton(){
     console.log("click the button");
 }
-setTimeout(timeout,15000);
+setTimeout(logbutton,5000);
 console.log("welcome to aryan");
 
