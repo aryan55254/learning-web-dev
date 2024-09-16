@@ -1,4 +1,6 @@
-const map = new Map();
-map.set('name','aryan');
-map.set('age',30);
-console.log(map.get('name'));
+const userdetails = new Map();
+userdetails.set('name','aryan');
+userdetails.set('age',18);
+console.log(userdetails.get('name'));
+const userage = userdetails.get('age');
+console.log(userage);
