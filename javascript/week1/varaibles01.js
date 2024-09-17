@@ -8,3 +8,6 @@ console.log(fullname);
 console.log(age);
 console.log(x);
 console.log(y);
+//variable names are case sensitive
+//only letters,_,$ can be first character
+//reserved words can't be variables
