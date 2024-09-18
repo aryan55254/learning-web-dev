@@ -8,4 +8,9 @@ console.log("a*b=",a*b);
 //modulus %= tells remainder
 console.log("a%b=",a%b);
 //exponential=power=**
-console.log
+console.log("a**b=",a**b);
+/*unary operators
+increment and decrement operators
+increment = a++ = a+1
+decrement = a-- = a-1
+*/
