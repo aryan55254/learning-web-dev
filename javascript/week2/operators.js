@@ -11,6 +11,10 @@ console.log("a%b=",a%b);
 console.log("a**b=",a**b);
 /*unary operators
 increment and decrement operators
-increment = a++ = a+1
-decrement = a-- = a-1
+increment = a++ = a+1 
+decrement = a-- = a-1 
 */
+a++;
+console.log(a);
+b--;
+console.log(b);
