@@ -3,8 +3,8 @@
 let x = 6;//numerical datatype
 let y = "tony";//string datatype
 let g = true;//boolean=true/false
-let a;//undefined
-let f = null;//null
+let a;//undefined = value not assigned
+let f = null;//null means empty value
 let w = BigInt("123");//bigint
 let q = Symbol("herello");//symbol
 //non primitive = objects->arrays,functions
