@@ -1,8 +1,8 @@
 //for-of  loop =used for loops in string and arrays 
-let str = "aryan"
-let size=0;
-for (let i of str){//iterator
-console.log(i);
-size++;
+let str = "aryan";
+let length = 0;
+for (let i of str ){
+    console.log(i);
+    length++;
 }
-console.log("string size=",size);
+console.log(length);
