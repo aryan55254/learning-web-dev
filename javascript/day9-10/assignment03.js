@@ -1,7 +1,6 @@
-//create a game where you start with any random game number,ask the user to keep guessing the game no. until the user enters the correct value
-let gamenumber = 25;
-let usernumber = prompt("guess the game number:");
-while (usernumber == gamnumber){
-     let usernumber=prompt("you entered wrong number try again:")
+let gameNum = 25;
+let userNum = prompt("guess the game number:");
+while (userNum != gameNum ){
+    userNum = prompt("try again:");
 }
-console.log("congratulations,you entered right number");
+console.log("consrats right number");
