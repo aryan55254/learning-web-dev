@@ -1,5 +1,3 @@
-//songleton = when we declare as literals its not singleton
-//pbject literals
 const User = {
     name : "hitesh",
     age : "18",
@@ -7,8 +5,12 @@ const User = {
     loggedin : "yes",
     "lastlogin" : ["monday","tuesday"]
 };
+User.email = "aloo.com";
+User.email="a.com";
 console.log(User.email);
-console.log(User["email"]);
-console.log(User["lastlogin"]);
 
-
+User.greeting = function()
+{
+    console.log("hello user");
+}
+console.log(User.greeting());
