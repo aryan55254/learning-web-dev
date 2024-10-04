@@ -1,5 +1,5 @@
-//songleton = when we declare as literals its not singleton
-//pbject literals
+//singleton = when we declare as literals its not singleton
+//object literals
 const User = {
     name : "hitesh",
     age : "18",
