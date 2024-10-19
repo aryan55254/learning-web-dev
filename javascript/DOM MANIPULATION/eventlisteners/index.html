@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Listeners</title>
+</head>
+<body>
+    <div class = "block">Aryan </div>
+    <span id="username" >Mishra</span>
+    <button onclick="console.log('clickededed')">click me</button>
+    <button onclick="handlebutonclick()">CLICK PLEASE</button>
+    <button id="button03">clicko </button>
+    <button id="hellobutton">hello</button>
+    <script>
+     function handlebutonclick(){
+        console.log("clicked");
+        alert("clicked")
+     };
+const el=document.getElementById("button03");
+el.onclick = function(){
+    console.log("hey i am clicked")
+};
+    </script>
+    <script>
+        el.onclick = function(){
+            console.log("i am clicked")}
+    </script>
+    <script>
+        const x = document.getElementById("hellobutton");
+        x.addEventListener("click",function(){
+            console.log("hello");
+        });
+    </script>
+    <script>
+        x.addEventListener("click",()=>console.log("hacked"));
+    </script>
+</body>
+</html>
