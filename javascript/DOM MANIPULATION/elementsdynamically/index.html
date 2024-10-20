@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dynamic elements</title>
+</head>
+<body>
+    <div id="appear"></div>
+   <button id="click">CLICK ME</button>
+   <script>
+const x = document.getElementById("appear");
+const y = document.getElementById("click");
+
+/*y.addEventListener("click",()=>x.innerHTML="<h1>this will appear</h1>")*/
+//this was another methof if you want it to happen only once
+
+y.addEventListener("click",()=>
+{const w=document.createElement("h1");
+    w.innerText="this will appear";
+    x.appendChild(w);
+})
+   </script>
+</body>
+</html>
