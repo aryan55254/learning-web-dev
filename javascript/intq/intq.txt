@@ -1,0 +1,22 @@
+1.primitive-single value
+non primitive-collection of values
+2.Hoisting= when variables and functions are declared after they are used
+javascript has a behaviour to move declarartions to the top
+there is difference beween declaration and initiazation
+3.== for value === for value and type
+4. const can't be redeclared or updated varcan be redeclred and updated let can be updated 
+ var declarations are scoped to the function in which they are declared. This means that variables declared with var are only accessible within the function and its nested functions
+  let and const declarations, on the other hand, have block scope. This means that they are scoped to the block (e.g., if, for, while) in which they are declared, rather than the entire function.
+  5.JavaScript is a dynamically typed language. In a dynamically typed language, the type of a variable is checked during run-time in contrast to a statically typed language, where the type of a variable is checked during compile-time. Variables can be of any type of value.
+  6.NaN = not a number typeofNaN is number ,
+ isNaN("Hello")  // Returns true
+isNaN(345)   // Returns false
+isNaN('1')  // Returns false, since '1' is converted to Number type which results in 0 ( a number) 
+isNaN(true) // Returns false, since true converted to Number type results in 1 ( a number)
+isNaN(false) // Returns false
+isNaN(undefined) // Returns true
+7.primitive data types are passed by value and non-primitive data types are passed by reference.
+8.An Immediately Invoked Function ( known as IIFE and pronounced as IIFY) is a function that runs as soon as it is defined
+(function(){ 
+  // Do something;
+})();
