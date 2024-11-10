@@ -2,7 +2,7 @@
 class Rectangle{
     costructor()
 {
-area(){}
+area();{}
 }
 }
 const rect = new Rectangle();
