@@ -1,2 +1,2 @@
-# learning-web-dev
-learning web dev
+# learning-javascript
+learning js
